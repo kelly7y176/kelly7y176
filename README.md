@@ -1,7 +1,7 @@
 
 <body align="center">
       
-# <h1> Hi 👋, I'm Kelly Wong. </h1>
+# <h1> 👋 Hi, I'm Kelly Wong. </h1>
 **`Web designer | Web developer | 3D Artist | Graphic Designer`**
 
 <p> As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
@@ -32,7 +32,7 @@
 
 #
 
-## 👨‍💻 Connect With Me
+## 💬 Connect
 <p>
       <a href="https://www.behance.net/kelly7y178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kelly7y178" height="30" width="40" /></a>
 </p>
