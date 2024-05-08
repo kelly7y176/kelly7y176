@@ -2,7 +2,7 @@
 <body align="center">
       
 # <h1> Hi 👋, I'm Kelly Wong. </h1>
-** `Web designer | Web developer | 3D Artist | Graphic Designer`**
+**`Web designer | Web developer | 3D Artist | Graphic Designer`**
 
 <p> As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
 
