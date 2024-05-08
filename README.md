@@ -1,4 +1,4 @@
-![Header](./[Your header image])
+
 
 
 <h1 align="center">Hi 👋, we are kelly</h1>
