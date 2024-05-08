@@ -1,3 +1,6 @@
+![Header](./[Your header image])
+
+
 <h1 align="center">Hi 👋, we are kelly</h1>
 <h3 align="center">A passionate frontend developer from Hong Kong</h3>
 
