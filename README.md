@@ -15,7 +15,7 @@
 
 
 # <h1 align="center"> Hi 👋, I'm KellyWong </h1>
-**`<h3 align="center">Web designer | Web developer | 3D Artist | Graphic Designer</h3>`**
+**<h3 align="center">`Web designer | Web developer | 3D Artist | Graphic Designer`</h3>**
 
 As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
 
