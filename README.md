@@ -1,10 +1,8 @@
+<img   align="left" align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://static.wixstatic.com/media/a6218d_2f4aa994d981484f84b692fc14a81dc4~mv2.png/v1/fill/w_2004,h_1336,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/a6218d_2f4aa994d981484f84b692fc14a81dc4~mv2.png" />
 
-<body align="center">
-      
+    
 # <h1> 👋 Hi, I'm Kelly Wong. </h1>
 **`Web Designer | Front-end Developer | 3D Artist | Graphic Designer`**
-
-<img   align="left" align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://static.wixstatic.com/media/a6218d_2f4aa994d981484f84b692fc14a81dc4~mv2.png/v1/fill/w_2004,h_1336,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/a6218d_2f4aa994d981484f84b692fc14a81dc4~mv2.png" />
 
 
 <p> As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
@@ -45,5 +43,3 @@
 💙 If you like this project, give it a ⭐ and share it with friends!
 
 #
-
-</body>
