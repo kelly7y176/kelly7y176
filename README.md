@@ -3,8 +3,8 @@
 
 As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
 
-2D portfolio at [https://kelly7y178.editorx.io/youi](https://kelly7y178.editorx.io/youi)   
-3D portfolio at [https://kelly7y178.editorx.io/kellyshowreel](https://kelly7y178.editorx.io/kellywshowreel)  
+2D portfolio : [https://kelly7y178.editorx.io/youi](https://kelly7y178.editorx.io/youi)   
+3D portfolio : [https://kelly7y178.editorx.io/kellyshowreel](https://kelly7y178.editorx.io/kellywshowreel)  
 
 <p align="left">
       <a href="https://github.com/kelly7y176?tab=followers">
@@ -16,13 +16,13 @@ As a multi-talented professional with approximately 3 years of experience in gra
 
 ## 👨‍💻 Languages / Tools / Technologies
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <br />
 
 #
