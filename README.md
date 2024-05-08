@@ -5,17 +5,6 @@ As a multi-talented professional with approximately 3 years of experience in gra
 
 2D portfolio at [https://kelly7y178.editorx.io/youi](https://kelly7y178.editorx.io/youi)   
 3D portfolio at [https://kelly7y178.editorx.io/kellyshowreel](https://kelly7y178.editorx.io/kellywshowreel)  
-Thank you. 
-
-
-
-
-<!-- Social badges section Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!--  View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-[![stars][1]][1]                                  
-
-
-
 
 <p align="left">
       <a href="https://github.com/kelly7y176?tab=followers">
