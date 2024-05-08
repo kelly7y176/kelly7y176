@@ -1,7 +1,7 @@
 # KellyWong
 **`Web designer | Web developer | 3D Artist | Graphic Designer`**
 
-As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development, I provide concepts and references as a graphic designer. 
+As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
 
 2D portfolio at [https://kelly7y178.editorx.io/youi](https://kelly7y178.editorx.io/youi)   
 3D portfolio at [https://kelly7y178.editorx.io/kellyshowreel](https://kelly7y178.editorx.io/kellywshowreel)  
