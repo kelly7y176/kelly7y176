@@ -12,10 +12,10 @@ Thank you.
 
 <!-- Social badges section Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!--  View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-[![star][star]][star]                                     
+[![stars][1]][1]                                  
 
 
-[star]: https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star
+[1]: https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star
 
 <a href="https://github.com/DenverCoder1?tab=followers">
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-
