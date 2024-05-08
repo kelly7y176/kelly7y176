@@ -10,11 +10,9 @@ Thank you.
 
 
 
-Social badges
-section
-Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-p align="center"›
+<!-- Social badges section Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!--  View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
 ‹a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
 <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw91qRkg?
 color=%2305D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labe]Color=CE4630"/></a>
@@ -27,6 +25,7 @@ badge&labelColor=С79600"/>‹/a>
 <img alt="followers" title="Follow me on Github"
 src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-
 add&label=Follow&logoColor=white" /></a>
+
 ‹a href="https://github.com/DenverCoder1/Simple-View-Counter">
 <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>|
 
