@@ -12,7 +12,7 @@ Thank you.
 
 <!-- Social badges section Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!--  View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-`star`             | [![star][star]][star]                                     |
+[![star][star]][star]                                     
 
 
 [star]: https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star
