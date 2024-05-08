@@ -3,10 +3,8 @@
 
 <p>As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. </p>
 
-- 🔭I'm currently working on **urgentTrack website**
-
-2D portfolio : [https://kelly7y178.editorx.io/youi](https://kelly7y178.editorx.io/youi)   
-3D portfolio : [https://kelly7y178.editorx.io/kellyshowreel](https://kelly7y178.editorx.io/kellywshowreel)  
+- 2D portfolio : **[https://kelly7y178.editorx.io/youi](https://kelly7y178.editorx.io/youi)**   
+- 3D portfolio : **[https://kelly7y178.editorx.io/kellyshowreel](https://kelly7y178.editorx.io/kellywshowreel)**  
 
 <p align="center">
       <a href="https://github.com/kelly7y176?tab=followers">
