@@ -11,7 +11,7 @@ As a multi-talented professional with approximately 3 years of experience in gra
 <a href="https://github.com/kelly7y176?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kelly7y176?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 
-## 👨‍💻 Languages / Tools / Technologies
+## 👨‍💻 Languages
 
 <img   align="left" align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img  align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
