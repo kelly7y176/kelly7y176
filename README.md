@@ -1,4 +1,4 @@
-# Kelly-Wong
+# KellyWong
 **`Web designer | 3D Artist | Graphic Designer | Web developer`**
 
 As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development, I provide concepts and references as a graphic designer. As a 3D designer, I transform them into tangible templates and simulated images, while utilizing these creations to enhance web design as a web developer.
