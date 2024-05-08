@@ -6,7 +6,7 @@
 
 <p> As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
 
-- 2D portfolio : **[https://kelly7y178.editorx.io/youi](https://kelly7y178.editorx.io/youi)**   
+- 2D portfolio : **https://kelly7y178.editorx.io/youi**   
 - 3D portfolio : **[https://kelly7y178.editorx.io/kellyshowreel](https://kelly7y178.editorx.io/kellywshowreel)**
 
 </p>
@@ -34,7 +34,7 @@
 
 ## 💬 Connect
 <p>
-      <a href="https://www.behance.net/kelly7y178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kelly7y178" height="30" width="40" /></a>
+      <a href="https://www.behance.net/kelly7y178686f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kelly7y178" height="30" width="40" /></a>
 </p>
 
 ## 🤩 Support
