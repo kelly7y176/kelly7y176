@@ -18,7 +18,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kelly7y176?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-<img align="left" alt="HTML" width="100%" style="padding-right:10px" src="https://static.wixstatic.com/media/a6218d_2f4aa994d981484f84b692fc14a81dc4~mv2.png/v1/fill/w_2004,h_1336,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/a6218d_2f4aa994d981484f84b692fc14a81dc4~mv2.png" 
+<a><img align="left" alt="HTML" width="100%" style="padding-right:10px" src="https://static.wixstatic.com/media/a6218d_2f4aa994d981484f84b692fc14a81dc4~mv2.png/v1/fill/w_2004,h_1336,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/a6218d_2f4aa994d981484f84b692fc14a81dc4~mv2.png" </a>
 ## 👨‍💻 Languages / Tools / Technologies
 
 <img   align="left" align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
