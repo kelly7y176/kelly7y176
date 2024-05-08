@@ -2,7 +2,7 @@
 
 
 
-# <h1> 👋 Hi, I'm Kelly Wong. </h1>
+<h1> 👋 Hi, I'm Kelly Wong. </h1>
 **`Web Designer | Front-end Developer | 3D Artist | Graphic Designer`**
 
 
