@@ -1,17 +1,22 @@
-# <h1 align="center"> Hi 👋, I'm Kelly Wong. </h1>
-**<h3 align="center">`Web designer | Web developer | 3D Artist | Graphic Designer`</h3>**
 
-<p>As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. </p>
+<body align="center">
+      
+# <h1> Hi 👋, I'm Kelly Wong. </h1>
+** <h3>`Web designer | Web developer | 3D Artist | Graphic Designer`</h3>**
+
+<p> As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
 
 - 2D portfolio : **[https://kelly7y178.editorx.io/youi](https://kelly7y178.editorx.io/youi)**   
-- 3D portfolio : **[https://kelly7y178.editorx.io/kellyshowreel](https://kelly7y178.editorx.io/kellywshowreel)**  
+- 3D portfolio : **[https://kelly7y178.editorx.io/kellyshowreel](https://kelly7y178.editorx.io/kellywshowreel)**
 
-<p align="center">
+</p>
+
+<p>
       <a href="https://github.com/kelly7y176?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kelly7y176?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+            <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kelly7y176?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/kelly7y176?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kelly7y176?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+</p>
 
 
 ## 👨‍💻 Languages / Tools / Technologies
@@ -28,8 +33,8 @@
 #
 
 ## 👨‍💻 Connect With Me
-<p align="center">
-<a href="https://www.behance.net/kelly7y178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kelly7y178" height="30" width="40" /></a>
+<p>
+      <a href="https://www.behance.net/kelly7y178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kelly7y178" height="30" width="40" /></a>
 </p>
 
 ## 🤩 Support
@@ -37,3 +42,5 @@
 💙 If you like this project, give it a ⭐ and share it with friends!
 
 #
+
+</body>
