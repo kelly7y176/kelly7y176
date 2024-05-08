@@ -18,7 +18,7 @@ Thank you.
 color=%2305D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labe]Color=CE4630"/></a>
 <a href="https://www.youtube.com/c/DevProTips">
 <img alt="youtube views" title="YouTube views" src-"https://custom-icon-badges.demolab.com/youtube/channel/views/UCipSxT7a3rn81vGLw91qRkg?color=%231AD0E&logo=video&10goColor=white&style=for-the-
-badge&labelColor=С79600"/>‹/a>
+badge&labelColor=С79600"/></a>
 <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&1og0=star"/›</a>
 
