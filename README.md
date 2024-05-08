@@ -1,23 +1,11 @@
-
-
-
-
-<h3 align="center">A passionate frontend developer from Hong Kong</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelly7y176&label=Profile%20views&color=0e75b6&style=flat" alt="kelly7y176" /> </p>
 
-- 🔭We are currently working on **urgentTrack website**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.behance.net/kelly7y178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kelly7y178" height="30" width="40" /></a>
-</p>
-
-
-# <h1 align="center"> Hi 👋, I'm KellyWong </h1>
+# <h1 align="center"> Hi 👋, I'm Kelly Wong. </h1>
 **<h3 align="center">`Web designer | Web developer | 3D Artist | Graphic Designer`</h3>**
 
 As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
+
+- 🔭I'm currently working on **urgentTrack website**
 
 2D portfolio : [https://kelly7y178.editorx.io/youi](https://kelly7y178.editorx.io/youi)   
 3D portfolio : [https://kelly7y178.editorx.io/kellyshowreel](https://kelly7y178.editorx.io/kellywshowreel)  
@@ -42,6 +30,11 @@ As a multi-talented professional with approximately 3 years of experience in gra
 <br />
 
 #
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.behance.net/kelly7y178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kelly7y178" height="30" width="40" /></a>
+</p>
 
 ## 🤩 Support
 
