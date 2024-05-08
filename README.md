@@ -7,7 +7,7 @@
 <p> As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
 
 - 2D portfolio : **https://kelly7y178.editorx.io/youi**   
-- 3D portfolio : **https://kelly7y178.editorx.io/kellyshowreel**
+- 3D portfolio : **[https://kelly7y178.editorx.io/kellyshowreel]**
 
 </p>
 
