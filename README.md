@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, we are kelly</h1>
+
 <h3 align="center">A passionate frontend developer from Hong Kong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelly7y176&label=Profile%20views&color=0e75b6&style=flat" alt="kelly7y176" /> </p>
@@ -14,8 +14,8 @@
 </p>
 
 
-# KellyWong
-**`Web designer | Web developer | 3D Artist | Graphic Designer`**
+# <h1 align="center"> Hi 👋, I'm KellyWong </h1>
+**`<h3 align="center">Web designer | Web developer | 3D Artist | Graphic Designer</h3>`**
 
 As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
 
