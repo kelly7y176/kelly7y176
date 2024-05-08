@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kelly7y176&label=Profile%20views&color=0e75b6&style=flat" alt="kelly7y176" /> </p>
-
 # <h1 align="center"> Hi 👋, I'm Kelly Wong. </h1>
 **<h3 align="center">`Web designer | Web developer | 3D Artist | Graphic Designer`</h3>**
 
