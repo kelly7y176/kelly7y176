@@ -15,7 +15,7 @@ As a multi-talented professional with approximately 3 years of experience in gra
       </a>
       
       <a href="https://github.com/kelly7y176?tab=repositories&sort=stargazers">
-            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kelly7y176?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+             <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kelly7y176?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
       </a>
 </p>
 
@@ -29,6 +29,8 @@ As a multi-talented professional with approximately 3 years of experience in gra
 <img  align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img  align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img  align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+
 <br />
 
 #
