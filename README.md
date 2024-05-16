@@ -1,5 +1,5 @@
 # <h1> 👋 Hi, I'm Kelly Wong. </h1>
-**`UI/UX Designer | Front-end Developer | 3D Artist | Graphic Designer`**
+**`UI/UX Designer | Full-Stack Developer | 3D Artist | Graphic Designer`**
 
 <p> 
 As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
