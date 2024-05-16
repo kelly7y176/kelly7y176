@@ -5,8 +5,8 @@
 As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
 
 - Coding Portfolio : **https://kelly7y176.github.io/kelly_portfolio/**
-- 2D portfolio : **https://kelly7y178.editorx.io/youi**   
-- 3D portfolio : **https://kelly7y178.editorx.io/kellywshowreel**
+- UI /2D Portfolio : **https://kelly7y178.editorx.io/youi**   
+- 3D Portfolio : **https://kelly7y178.editorx.io/kellywshowreel**
 </p>
 
 <a href="https://github.com/kelly7y176?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kelly7y176?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
