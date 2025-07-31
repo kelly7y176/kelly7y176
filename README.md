@@ -2,7 +2,7 @@
 **`UI/UX Designer | Full-Stack Developer | 3D Artist | Graphic Designer`**
 
 <p> 
-As a multi-talented professional with approximately 3 years of experience in graphic design, 3D design, and web development. 
+As a multi-talented professional with approximately 5 years of experience in graphic design, 3D design, and web development. 
 
 - Coding Portfolio : **https://kelly7y176.github.io/Kelly_Portfolio/**
 - UI /2D Portfolio : **https://kelly7y178.editorx.io/youi**   
